@@ -56,10 +56,6 @@ a {
 	}
 }
 
-.rotation-90 {
-	rotate: 90px;
-}
-
 .image-circle {
 	border-radius: 50%;
 }
